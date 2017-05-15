@@ -122,8 +122,8 @@ F
 **指示标和面包屑的作用：**  
 为用户提供一种追踪返回最初访问页面的方式，可以清晰的为客户指引进入网站内部也和首页之间的路线  
 **举出几个有关网页设计的网站：**  
-- 优设网<www.uisdc.com>
-- icon搜索<www.iconpng.com>
-- 站酷<http://www.zcool.com.cn>
-- 黄蜂网<http://www.woofeng.cn>
-- 花瓣网<http://huaban.com>
+- 优设网 <http://www.uisdc.com>
+- icon搜索 <http://www.iconpng.com>
+- 站酷 <http://www.zcool.com.cn>
+- 黄蜂网 <http://www.woofeng.cn>
+- 花瓣网 <http://huaban.com>
